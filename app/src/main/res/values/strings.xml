@@ -2,5 +2,5 @@
     <string name="app_name">Localization</string>
     <string name="greeting">hello and welcome</string>
     <string name="button_text">tryck</string>
-    <string name="great">Great</string>
+    <string name="great">Great %1$s</string>
 </resources>

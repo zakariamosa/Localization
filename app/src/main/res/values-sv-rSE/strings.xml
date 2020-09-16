@@ -2,5 +2,5 @@
     <string name="app_name">Localization</string>
     <string name="greeting">Hej och Välkommen</string>
     <string name="button_text">tryck</string>
-    <string name="great">Bra jobbat!!!</string>
+    <string name="great">Bra jobbat %1$s!!!</string>
 </resources>

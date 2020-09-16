@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
 
 lateinit var greetingTextView:TextView
-
+var name="David"
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,7 +25,7 @@ lateinit var greetingTextView:TextView
 
 
     fun button_pressed(view: View){
-        greetingTextView.text=getString(R.string.great)
+        greetingTextView.text=getString(R.string.great,name)
     }
 
 
